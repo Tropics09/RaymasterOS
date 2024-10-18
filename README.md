@@ -13,6 +13,11 @@ Boot concept By Myself:
 
 [video (2).webm](https://github.com/user-attachments/assets/581c32a4-7e25-421e-acfb-da0d3b20b86d)
 
+Installer
+
+![Screenshot from 2024-10-18 14-52-45](https://github.com/user-attachments/assets/05ad1bb0-193d-48ca-b79e-9b98b0012bfa)
+
+
 Im making actual applications and stuff dw lol.
 
 More stuff is coming lol js gimme time yh
