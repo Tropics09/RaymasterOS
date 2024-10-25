@@ -22,8 +22,8 @@ Im making actual applications and stuff dw lol.
 
 OOBE Step 1 and 2
 
-![Screenshot from 2024-10-25 17-09-02](https://github.com/user-attachments/assets/35ceaca2-5f07-4b13-90f5-dedfb73568f5)
 ![Screenshot from 2024-10-25 17-08-07](https://github.com/user-attachments/assets/fc5e5c2a-9092-47cf-a9cf-260092d74b16)
+![Screenshot from 2024-10-25 17-09-02](https://github.com/user-attachments/assets/35ceaca2-5f07-4b13-90f5-dedfb73568f5)
 
 Lol ik it looks like windows 11. 
 
