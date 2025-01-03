@@ -1,6 +1,9 @@
 # RaymasterOS
 The Source Code for Raymaster
 
+Development moved to this organisation
+https://github.com/Raymaster-team
+
 So like some ppl on yt dont believe me so until i have a bootable build imma post concept art here. 
 
 Main Desktop:
